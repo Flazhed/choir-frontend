@@ -31,7 +31,8 @@
         <dependency>
             <groupId>${project.groupId}</groupId>
             <artifactId>choir-backend-mock</artifactId>
-            <version>${project.version}</version>
+            <version>1.0-20161012.114922-7</version>
+            
         </dependency>
         <dependency>
             <groupId>javax</groupId>
